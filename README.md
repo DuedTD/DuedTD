@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @DuedTD
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning haxe and c+
-- StampS is my best friend btw
+- 🌱 I’m currently learning haxe, lua, roblox lua and c++, python (not really)
